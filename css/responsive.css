@@ -912,7 +912,7 @@
     }
     .menu_one,.header_area.navbar_fixed .menu_one,.menu_two,.menu_six,.menu_seven{
         /* padding: 15px 0px; */
-        background-color: #591D9C;
+        background-image: linear-gradient(to right top, #591d9c, #6e1ea8, #841db3, #9a1bbe, #b116c8);;
     }
     .w_menu .nav-item .nav-link{
         color: #051441;

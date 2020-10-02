@@ -1846,7 +1846,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #591D9C;
+  background-image: linear-gradient(to right top, #591d9c, #6e1ea8, #841db3, #9a1bbe, #b116c8);
   -webkit-box-shadow: 0px 4px 6px 0px rgba(12, 0, 46, 0.06);
   box-shadow: 0px 4px 6px 0px rgba(12, 0, 46, 0.06);
 }
@@ -10294,7 +10294,7 @@ input[type=number]::-webkit-inner-spin-button {
 }
 
 .footer_area_two .footer_top_two {
-  border-bottom: 1px solid #e9ecf3;
+  /* border-bottom: 1px solid #e9ecf3; */
   padding: 80px 0px 70px;
 }
 
@@ -10813,7 +10813,7 @@ input[type=number]::-webkit-inner-spin-button {
 }
 
 .footer_dark_five .footer_top_two {
-  border-color: #1d1d42;
+  background-image: linear-gradient(to top, #121233, #141843, #151f53, #132664, #0b2e76);
 }
 
 .footer_dark_five .f_widget .widget-wrap p span {
