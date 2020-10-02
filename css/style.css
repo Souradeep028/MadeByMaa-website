@@ -88,6 +88,16 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   box-shadow: none;
 }
 
+@media (min-width: 992px)
+{
+.navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    display: flex!important;
+    -ms-flex-preferred-size: auto;
+    flex-basis: auto;
+    justify-content: flex-end;
+}}
+
 @media (min-width: 1250px) {
   .container {
     max-width: 1200px;
@@ -2296,7 +2306,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   left: 0;
   top: 0;
   z-index: -1;
-  background: url("/img/header.png") no-repeat scroll center 0/cover;
+  background: url("/img/header.jpg") no-repeat scroll center 0/cover;
 }
 
 /*=============== saas banner area ================*/
