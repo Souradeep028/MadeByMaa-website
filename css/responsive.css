@@ -911,7 +911,7 @@
         padding-right: 20px;
     }
     .menu_one,.header_area.navbar_fixed .menu_one,.menu_two,.menu_six,.menu_seven{
-        padding: 15px 0px;
+        /* padding: 15px 0px; */
         background-color: #591D9C;
     }
     .w_menu .nav-item .nav-link{
@@ -924,7 +924,7 @@
         padding-top: 140px;
     }
     .menu_four .menu > .nav-item .nav-link,.menu_five .menu > .nav-item .nav-link,.menu_six .menu > .nav-item .nav-link,.menu_seven .menu .nav-item .nav-link{
-        color: #051441;
+        color: #ffffff;;
     }
     .menu_five .menu > .nav-item:hover .nav-link,.menu_five .menu > .nav-item.active .nav-link{
         color: #3d64f4;

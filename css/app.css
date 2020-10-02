@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "flexslider-icon";
+  src: url("fonts/flexslider-icon.eot");
+  src: url("fonts/flexslider-icon.eot?#iefix") format("embedded-opentype"),
+    url("fonts/flexslider-icon.woff") format("woff"),
+    url("fonts/flexslider-icon.ttf") format("truetype"),
+    url("fonts/flexslider-icon.svg#flexslider-icon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.section-how-it-works .main-section-title, .section-how-it-works .section-description-text {
+  text-align: center;
+}
+
+.main-section-title {
+  font-family: Montserrat,sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  color: #171a21;
+  margin: 0 auto 10px;
+  display: block;
+}
+
+.section-description-text {
+  margin-bottom: 50px;
+  font-family: "Open Sans",sans-serif;
+  font-size: 17px;
+  color: #171a21;
+  font-weight: 400;
+}
+
+/* .feature-lefted .feature__title {
+  padding-left: 80px;
+} */
+
+.feature__title {
+  font-family: "Open Sans",sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  color: #171a21;
+}
